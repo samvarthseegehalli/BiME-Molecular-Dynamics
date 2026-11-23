@@ -1,0 +1,22 @@
+[!] Structure contains gaps:
+	A ASP1 < Fragment 0 > A ASN212
+	B ASP1 < Fragment 1 > B PRO129
+	B THR140 < Fragment 2 > B SER163
+	B VAL166 < Fragment 3 > B TRP191
+	B SER193 < Fragment 4 > B ALA213
+	C CYS287 < Fragment 5 > C CYS302
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure B-RD-001_mAb806_EGFRpeptide_rank001_model0
+[+] No. of intermolecular contacts: 67
+[+] No. of charged-charged contacts: 9.0
+[+] No. of charged-polar contacts: 7.0
+[+] No. of charged-apolar contacts: 24.0
+[+] No. of polar-polar contacts: 0.0
+[+] No. of apolar-polar contacts: 13.0
+[+] No. of apolar-apolar contacts: 14.0
+[+] Percentage of apolar NIS residues: 32.60
+[+] Percentage of charged NIS residues: 21.00
+[++] Predicted binding affinity (kcal.mol-1):    -13.2
+[++] Predicted dissociation constant (M) at 25.0˚C:  2.3e-10

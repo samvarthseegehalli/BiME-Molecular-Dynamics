@@ -1,0 +1,23 @@
+[!] Structure contains gaps:
+	C THR1 < Fragment 0 > C LEU101
+	C SER111 < Fragment 1 > C ALA302
+	C THR306 < Fragment 2 > C ASP360
+	C SER365 < Fragment 3 > C SER580
+	C ILE591 < Fragment 4 > C ASN607
+	A ASP1 < Fragment 5 > A CYS214
+	B GLU1 < Fragment 6 > B PRO220
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure B-RD-003_trastuzumab_HER2_rank002_model0
+[+] No. of intermolecular contacts: 73
+[+] No. of charged-charged contacts: 9.0
+[+] No. of charged-polar contacts: 8.0
+[+] No. of charged-apolar contacts: 18.0
+[+] No. of polar-polar contacts: 4.0
+[+] No. of apolar-polar contacts: 10.0
+[+] No. of apolar-apolar contacts: 24.0
+[+] Percentage of apolar NIS residues: 36.41
+[+] Percentage of charged NIS residues: 21.15
+[++] Predicted binding affinity (kcal.mol-1):    -10.4
+[++] Predicted dissociation constant (M) at 25.0˚C:  2.5e-08

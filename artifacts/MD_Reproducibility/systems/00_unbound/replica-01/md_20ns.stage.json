@@ -1,0 +1,25 @@
+{
+  "stage": "production",
+  "replica": 1,
+  "topology_sha256": "ed0e85949645378a21a963081d4356be2fb0633ecf6cfb023322b56baacfc23c",
+  "restraints_sha256": "8e9d31415bea5169d0ee05fad93febff90c5a89868887f74a225a165777cfd05",
+  "mdp_sha256": "b10db1374f8f40f9a2fc8f65388b1a0a6f7c9fb305fd106c6b9eb9abaf72b24f",
+  "tpr_sha256": "0226313117f1fca89e5f34a9426c9d8844ae44e3596d80ec49bdb5a31281e0eb",
+  "last_launch_utc": "2026-09-23T03:27:03.763638+00:00",
+  "command": [
+    "<COMPUTE_PATH>",
+    "mdrun",
+    "-deffnm",
+    "md_20ns",
+    "-s",
+    "<COMPUTE_PATH>",
+    "-maxh",
+    "23.5",
+    "-ntmpi",
+    "1",
+    "-ntomp",
+    "8",
+    "-nb",
+    "gpu"
+  ]
+}

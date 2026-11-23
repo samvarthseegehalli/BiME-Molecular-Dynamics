@@ -1,0 +1,14 @@
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure B-EXP-002_34E5_EGFRvIII_8UKV_AC_model0
+[+] No. of intermolecular contacts: 69
+[+] No. of charged-charged contacts: 5.0
+[+] No. of charged-polar contacts: 10.0
+[+] No. of charged-apolar contacts: 23.0
+[+] No. of polar-polar contacts: 1.0
+[+] No. of apolar-polar contacts: 10.0
+[+] No. of apolar-apolar contacts: 20.0
+[+] Percentage of apolar NIS residues: 35.71
+[+] Percentage of charged NIS residues: 24.86
+[++] Predicted binding affinity (kcal.mol-1):    -10.7
+[++] Predicted dissociation constant (M) at 25.0˚C:  1.5e-08

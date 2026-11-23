@@ -1,0 +1,139 @@
+{
+  "state": "00_unbound",
+  "replica": "replica-01",
+  "interval_ps": 500,
+  "paratope_residues": {
+    "X": [
+      31,
+      33,
+      37,
+      44,
+      47,
+      50,
+      54,
+      56,
+      58,
+      96,
+      98,
+      100,
+      101,
+      102,
+      104
+    ],
+    "Y": [
+      168,
+      169,
+      170,
+      171,
+      173,
+      188,
+      190,
+      192,
+      193,
+      195,
+      197,
+      237,
+      238,
+      239,
+      296,
+      297,
+      299,
+      311,
+      314,
+      320,
+      356,
+      359,
+      361
+    ]
+  },
+  "metrics": {
+    "site_X_sasa_surface_Construct_nm2": {
+      "n_frames": 41,
+      "mean": 13.549365853658536,
+      "min": 12.035,
+      "max": 15.722,
+      "first_half_mean": 14.072199999999999,
+      "second_half_mean": 13.05142857142857
+    },
+    "site_X_vs_Arm2": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 1.8607762073170733,
+        "min": 0.4607917,
+        "max": 5.194436,
+        "first_half_mean": 2.3515497250000004,
+        "second_half_mean": 1.393372857142857
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_X_vs_Linker1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 1.6769303658536583,
+        "min": 1.096581,
+        "max": 2.545854,
+        "first_half_mean": 1.86065325,
+        "second_half_mean": 1.5019561904761907
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_Y_sasa_surface_Construct_nm2": {
+      "n_frames": 41,
+      "mean": 17.066195121951218,
+      "min": 15.473,
+      "max": 18.485,
+      "first_half_mean": 16.9492,
+      "second_half_mean": 17.177619047619046
+    },
+    "site_Y_vs_Arm1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 1.7017285609756096,
+        "min": 0.5389183,
+        "max": 5.130281,
+        "first_half_mean": 2.428344565,
+        "second_half_mean": 1.0097133190476189
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_Y_vs_Linker1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 0.8414455609756096,
+        "min": 0.4467672,
+        "max": 1.312265,
+        "first_half_mean": 0.8368565099999999,
+        "second_half_mean": 0.8458160857142858
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.04878048780487805,
+        "min": 0.0,
+        "max": 1.0,
+        "first_half_mean": 0.05,
+        "second_half_mean": 0.047619047619047616
+      }
+    }
+  }
+}

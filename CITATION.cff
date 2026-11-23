@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the associated BiME manuscript; this archive does not yet have a software DOI."
+title: "BiME molecular-dynamics research repository"
+authors:
+  - family-names: Seegehalli
+    given-names: Samvarth
+  - family-names: Sharma
+    given-names: Gaurav
+abstract: "Computational assembly and structural evaluation of an EGFRvIII–SIRPα bispecific binder."
+license: NONE

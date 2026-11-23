@@ -1,0 +1,12 @@
+metric	value
+group_a_heavy_atoms	873
+group_b_heavy_atoms	3270
+group_a_residues	116
+group_b_residues	431
+group_a_CA_atoms	116
+group_b_CA_atoms	431
+minimum_intergroup_distance_A	2.205
+severe_atom_clashes_lt_1.5A	0
+atom_clashes_lt_2.0A	0
+intergroup_atom_contacts_le_4.0A	167
+intergroup_residue_contacts_le_5.0A	54

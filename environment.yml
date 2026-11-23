@@ -1,0 +1,22 @@
+name: bime-review
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.5
+  # Verified package versions observed in the recovered project environment.
+  - biopython=1.88
+  - numpy=2.5.3
+  # Explicit pins for preparation and figure workflows; these were not installed
+  # together as a clean environment in the recovered project archive.
+  - scipy=1.16.3
+  - openmm=8.4.0
+  - pdbfixer=1.12
+  - matplotlib=3.10.3
+  - pillow=11.3.0
+  - freesasa=2.2.1
+  - pip=25.1.1
+  - pip:
+      - prodigy-prot==2.4.0
+# The packaged-data verifier, numerical analysis, SVG figure and tests use only
+# Python stdlib. GROMACS 2025.1 is installed separately. This proposed pin set
+# is not a byte-for-byte reproduction of the historic GPU host environment.

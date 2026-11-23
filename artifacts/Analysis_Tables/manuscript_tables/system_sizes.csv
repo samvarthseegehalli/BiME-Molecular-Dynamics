@@ -1,0 +1,5 @@
+state,atoms,protein_atoms,minimization_steps,max_force
+00_unbound,248015,5357,2618,638.30225
+01_egfrviii_bound,342695,10184,1,569.94019
+02_sirpa_bound,248274,7125,2129,885.73199
+03_dual_bound,344219,11952,1614,933.11566

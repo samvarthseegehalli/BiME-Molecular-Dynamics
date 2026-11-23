@@ -1,0 +1,13 @@
+state,replica,production_log_present,log_contains_Finished_mdrun,production_xtc_present,production_xtc_bytes,production_ns_as_reported_in_final_record
+00_unbound,replica-01,True,True,True,1860243904,20
+00_unbound,replica-02,True,True,True,1860231272,20
+00_unbound,replica-03,True,True,True,1860250048,20
+01_egfrviii_bound,replica-01,True,True,True,2568397224,20
+01_egfrviii_bound,replica-02,True,True,True,2568388344,20
+01_egfrviii_bound,replica-03,True,True,True,2568414884,20
+02_sirpa_bound,replica-01,True,True,True,1862416680,20
+02_sirpa_bound,replica-02,True,True,True,1862427540,20
+02_sirpa_bound,replica-03,True,True,True,1862400388,20
+03_dual_bound,replica-01,True,True,True,2579989500,20
+03_dual_bound,replica-02,True,True,True,2580010860,20
+03_dual_bound,replica-03,True,True,True,2580037872,20

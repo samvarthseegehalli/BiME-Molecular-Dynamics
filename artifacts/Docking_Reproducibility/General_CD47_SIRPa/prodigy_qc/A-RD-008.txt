@@ -1,0 +1,20 @@
+[!] Structure contains gaps:
+	S GLU3 < Fragment 0 > S ALA116
+	H ASP1 < Fragment 1 > H SER134
+	H THR141 < Fragment 2 > H SER221
+	L GLU1 < Fragment 3 > L GLY213
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure A-RD-008_clone115_SIRPa_rank001_model0
+[+] No. of intermolecular contacts: 79
+[+] No. of charged-charged contacts: 5.0
+[+] No. of charged-polar contacts: 14.0
+[+] No. of charged-apolar contacts: 19.0
+[+] No. of polar-polar contacts: 2.0
+[+] No. of apolar-polar contacts: 14.0
+[+] No. of apolar-apolar contacts: 25.0
+[+] Percentage of apolar NIS residues: 39.17
+[+] Percentage of charged NIS residues: 22.63
+[++] Predicted binding affinity (kcal.mol-1):    -10.7
+[++] Predicted dissociation constant (M) at 25.0˚C:  1.5e-08

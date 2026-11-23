@@ -1,0 +1,22 @@
+[
+  {
+    "model": "01_egfrviii_bound_X",
+    "deltaG_kcal_mol": -10.8,
+    "KD_M": 1.2e-08
+  },
+  {
+    "model": "02_sirpa_bound_Y",
+    "deltaG_kcal_mol": -11.9,
+    "KD_M": 2e-09
+  },
+  {
+    "model": "03_dual_bound_X",
+    "deltaG_kcal_mol": -10.8,
+    "KD_M": 1.2e-08
+  },
+  {
+    "model": "03_dual_bound_Y",
+    "deltaG_kcal_mol": -11.8,
+    "KD_M": 2.2e-09
+  }
+]

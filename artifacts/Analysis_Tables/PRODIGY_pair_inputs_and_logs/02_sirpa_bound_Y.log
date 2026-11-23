@@ -1,0 +1,14 @@
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure 02_sirpa_bound_Y_model0
+[+] No. of intermolecular contacts: 79
+[+] No. of charged-charged contacts: 22.0
+[+] No. of charged-polar contacts: 8.0
+[+] No. of charged-apolar contacts: 27.0
+[+] No. of polar-polar contacts: 1.0
+[+] No. of apolar-polar contacts: 8.0
+[+] No. of apolar-apolar contacts: 13.0
+[+] Percentage of apolar NIS residues: 41.99
+[+] Percentage of charged NIS residues: 19.16
+[++] Predicted binding affinity (kcal.mol-1):    -11.9
+[++] Predicted dissociation constant (M) at 25.0˚C:  2.0e-09

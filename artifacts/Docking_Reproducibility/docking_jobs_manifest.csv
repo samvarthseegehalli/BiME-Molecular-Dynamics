@@ -1,0 +1,17 @@
+track,job_folder,source_job_id,source_manifest,ranked_model_pdb_count_in_full_archive,ranked_pose_files_in_compact_package,hdock_output_count,selection_note
+General_CD47_SIRPa,job_01,A-RD-001,track-a-general-cd47-sirpa/docking/A-RD-001,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_02,A-RD-002,track-a-general-cd47-sirpa/docking/A-RD-002,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_03,A-RD-003,track-a-general-cd47-sirpa/docking/A-RD-003,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_04,A-RD-004,track-a-general-cd47-sirpa/docking/A-RD-004,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_05,A-RD-005,track-a-general-cd47-sirpa/docking/A-RD-005,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_06,A-RD-006,track-a-general-cd47-sirpa/docking/A-RD-006,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_07,A-RD-007,track-a-general-cd47-sirpa/docking/A-RD-007,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_08,A-RD-008,track-a-general-cd47-sirpa/docking/A-RD-008,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_09,A-RD-009,track-a-general-cd47-sirpa/docking/A-RD-009,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+General_CD47_SIRPa,job_10,A-RD-010,track-a-general-cd47-sirpa/docking/A-RD-010,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+EGFRvIII_SIRPa,job_01,B-DOCK-001,track-b-glioblastoma-targeted/docking/B-DOCK-001,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+EGFRvIII_SIRPa,job_02,B-DOCK-002,track-b-glioblastoma-targeted/docking/B-DOCK-002,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+EGFRvIII_SIRPa,job_03,B-DOCK-003,track-b-glioblastoma-targeted/docking/B-DOCK-003,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+EGFRvIII_SIRPa,job_04,B-RD-001,track-b-glioblastoma-targeted/docking/B-RD-001,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+EGFRvIII_SIRPa,job_05,B-RD-002,track-b-glioblastoma-targeted/docking/B-RD-002,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.
+EGFRvIII_SIRPa,job_06,B-RD-003,track-b-glioblastoma-targeted/docking/B-RD-003,100,1,1,Original score output and top-ranked pose retained; remaining ranked pose coordinates omitted as redundant.

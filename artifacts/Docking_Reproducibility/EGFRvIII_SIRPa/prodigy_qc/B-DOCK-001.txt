@@ -1,0 +1,28 @@
+[!] Structure contains gaps:
+	C LYS31 < Fragment 0 > C SER58
+	C CYS65 < Fragment 1 > C ALA103
+	C ILE105 < Fragment 2 > C THR138
+	C VAL140 < Fragment 3 > C GLY160
+	C THR167 < Fragment 4 > C ALA190
+	C GLN193 < Fragment 5 > C SER217
+	C ILE223 < Fragment 6 > C THR247
+	C LYS255 < Fragment 7 > C ILE276
+	C THR285 < Fragment 8 > C TYR293
+	C PHE306 < Fragment 9 > C LYS328
+	H GLN1 < Fragment 10 > H SER128
+	L GLU1 < Fragment 11 > L LYS127
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure B-DOCK-001_sanitized_model0
+[+] No. of intermolecular contacts: 67
+[+] No. of charged-charged contacts: 2.0
+[+] No. of charged-polar contacts: 11.0
+[+] No. of charged-apolar contacts: 18.0
+[+] No. of polar-polar contacts: 6.0
+[+] No. of apolar-polar contacts: 15.0
+[+] No. of apolar-apolar contacts: 15.0
+[+] Percentage of apolar NIS residues: 35.87
+[+] Percentage of charged NIS residues: 24.18
+[++] Predicted binding affinity (kcal.mol-1):    -10.1
+[++] Predicted dissociation constant (M) at 25.0˚C:  3.8e-08

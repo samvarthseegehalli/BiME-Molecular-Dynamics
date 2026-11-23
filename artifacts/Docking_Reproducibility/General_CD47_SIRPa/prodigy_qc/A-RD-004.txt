@@ -1,0 +1,20 @@
+[!] Structure contains gaps:
+	C GLN1 < Fragment 0 > C ARG114
+	H GLU1 < Fragment 1 > H PRO133
+	H GLY141 < Fragment 2 > H PRO220
+	L GLU1 < Fragment 3 > L GLY212
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure A-RD-004_C47B222_CD47_rank001_model0
+[+] No. of intermolecular contacts: 68
+[+] No. of charged-charged contacts: 8.0
+[+] No. of charged-polar contacts: 10.0
+[+] No. of charged-apolar contacts: 22.0
+[+] No. of polar-polar contacts: 3.0
+[+] No. of apolar-polar contacts: 12.0
+[+] No. of apolar-apolar contacts: 13.0
+[+] Percentage of apolar NIS residues: 35.48
+[+] Percentage of charged NIS residues: 23.33
+[++] Predicted binding affinity (kcal.mol-1):    -11.2
+[++] Predicted dissociation constant (M) at 25.0˚C:  6.3e-09

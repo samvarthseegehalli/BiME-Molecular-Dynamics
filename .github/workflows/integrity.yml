@@ -1,0 +1,23 @@
+name: Artifact integrity
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Verify packaged artifact inventory
+        run: python scripts/verify_manifest.py
+      - name: Recompute manuscript summaries from XVG data
+        run: python scripts/verify_paper_data.py
+      - name: Run numerical and mapping tests
+        run: python -m unittest discover -s tests -v
+      - name: Generate portable interface figure
+        run: python scripts/make_audited_figures.py --output /tmp/interface_contacts.svg
+      - name: Generate portable thermodynamic figure
+        run: python scripts/plot_thermo.py --output /tmp/thermodynamic_summary.svg

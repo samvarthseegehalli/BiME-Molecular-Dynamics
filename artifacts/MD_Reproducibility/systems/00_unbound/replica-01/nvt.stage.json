@@ -1,0 +1,25 @@
+{
+  "stage": "nvt",
+  "replica": 1,
+  "topology_sha256": "ed0e85949645378a21a963081d4356be2fb0633ecf6cfb023322b56baacfc23c",
+  "restraints_sha256": "8e9d31415bea5169d0ee05fad93febff90c5a89868887f74a225a165777cfd05",
+  "mdp_sha256": "5eb2dc8b817ea43204df4a35148bc278ba585ddab3815db8db096ca4593e9114",
+  "tpr_sha256": "30466208b435a66c1dd22e0490f68882269ae330804cedcadd068e64c44018af",
+  "last_launch_utc": "2026-09-23T03:08:50.035672+00:00",
+  "command": [
+    "<COMPUTE_PATH>",
+    "mdrun",
+    "-deffnm",
+    "nvt",
+    "-s",
+    "<COMPUTE_PATH>",
+    "-maxh",
+    "23.5",
+    "-ntmpi",
+    "1",
+    "-ntomp",
+    "8",
+    "-nb",
+    "gpu"
+  ]
+}

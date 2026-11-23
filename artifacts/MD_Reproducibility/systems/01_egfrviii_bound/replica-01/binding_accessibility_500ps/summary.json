@@ -1,0 +1,121 @@
+{
+  "state": "01_egfrviii_bound",
+  "replica": "replica-01",
+  "interval_ps": 500,
+  "paratope_residues": {
+    "X": [
+      31,
+      33,
+      37,
+      44,
+      47,
+      50,
+      54,
+      56,
+      58,
+      96,
+      98,
+      100,
+      101,
+      102,
+      104
+    ],
+    "Y": [
+      168,
+      169,
+      170,
+      171,
+      173,
+      188,
+      190,
+      192,
+      193,
+      195,
+      197,
+      237,
+      238,
+      239,
+      296,
+      297,
+      299,
+      311,
+      314,
+      320,
+      356,
+      359,
+      361
+    ]
+  },
+  "metrics": {
+    "site_Y_sasa_surface_Construct_nm2": {
+      "n_frames": 41,
+      "mean": 16.001048780487807,
+      "min": 14.661,
+      "max": 17.168,
+      "first_half_mean": 16.10615,
+      "second_half_mean": 15.900952380952381
+    },
+    "site_Y_sasa_surface_Protein_nm2": {
+      "n_frames": 41,
+      "mean": 15.136536585365853,
+      "min": 11.689,
+      "max": 17.168,
+      "first_half_mean": 16.10615,
+      "second_half_mean": 14.213095238095237
+    },
+    "site_Y_vs_Arm1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 1.5283930780487804,
+        "min": 0.7198958,
+        "max": 4.06934,
+        "first_half_mean": 2.0457779250000003,
+        "second_half_mean": 1.0356456047619051
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_Y_vs_Linker1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 0.3458285219512195,
+        "min": 0.1549606,
+        "max": 1.233729,
+        "first_half_mean": 0.49992402,
+        "second_half_mean": 0.19907090476190475
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 61.390243902439025,
+        "min": 0.0,
+        "max": 179.0,
+        "first_half_mean": 23.85,
+        "second_half_mean": 97.14285714285714
+      }
+    },
+    "site_Y_vs_Target_X": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 1.4599728585365854,
+        "min": 0.1649542,
+        "max": 4.326409,
+        "first_half_mean": 2.4759596999999998,
+        "second_half_mean": 0.4923663428571429
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 71.58536585365853,
+        "min": 0.0,
+        "max": 332.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 139.76190476190476
+      }
+    }
+  }
+}

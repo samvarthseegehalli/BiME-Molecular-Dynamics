@@ -1,0 +1,52 @@
+====== Model 10 ====== 
+
+# Receptor interface residue(s):
+GLN      1C     3.132
+LEU      2C     3.671
+LEU      3C     1.651
+ASN     27C     2.328
+GLU     29C     1.862
+GLU    100C     4.775
+THR    102C     2.895
+ARG    103C     2.525
+ 
+# Ligand interface residue(s):
+THR     28B     3.342
+THR     30B     4.708
+ASN     31B     1.862
+TYR     32B     2.895
+ASN     33B     4.132
+TYR     52B     2.328
+ASN     55B     3.722
+ARG     98B     3.542
+GLY     99B     4.202
+GLY    100B     3.355
+TYR    101B     1.651
+ASP    105B     3.989
+ 
+# Receptor-ligand interface residue pair(s):
+1C  -  31B     3.132
+1C  -  32B     3.606
+1C  -  33B     4.132
+1C  -  52B     3.448
+1C  -  99B     4.202
+1C  -  100B     3.355
+1C  -  101B     3.862
+2C  -  101B     3.671
+3C  -  52B     2.549
+3C  -  55B     3.722
+3C  -  101B     1.651
+27C  -  30B     4.712
+27C  -  31B     4.322
+27C  -  52B     2.328
+29C  -  28B     3.342
+29C  -  30B     4.708
+29C  -  31B     1.862
+100C  -  31B     4.775
+102C  -  32B     2.895
+102C  -  98B     3.542
+102C  -  105B     3.989
+103C  -  31B     2.525
+103C  -  32B     3.661
+103C  -  52B     4.763
+ 

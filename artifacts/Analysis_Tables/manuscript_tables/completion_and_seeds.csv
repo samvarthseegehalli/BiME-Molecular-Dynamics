@@ -1,0 +1,13 @@
+state,replica,completed,production_ns,seed
+00_unbound,replica-01,True,20,18473
+00_unbound,replica-02,True,20,87311
+00_unbound,replica-03,True,20,23197
+01_egfrviii_bound,replica-01,True,20,59107
+01_egfrviii_bound,replica-02,True,20,87311
+01_egfrviii_bound,replica-03,True,20,23197
+02_sirpa_bound,replica-01,True,20,59107
+02_sirpa_bound,replica-02,True,20,87311
+02_sirpa_bound,replica-03,True,20,23197
+03_dual_bound,replica-01,True,20,59107
+03_dual_bound,replica-02,True,20,87311
+03_dual_bound,replica-03,True,20,23197

@@ -1,0 +1,6 @@
+# Versions observed in the recovered project's Python 3.13 virtual environment.
+# The packaged summary verifier, plotting script, and tests use only stdlib.
+biopython==1.88
+freesasa==2.2.1
+numpy==2.5.3
+prodigy-prot==2.4.0

@@ -1,0 +1,121 @@
+{
+  "state": "01_egfrviii_bound",
+  "replica": "replica-02",
+  "interval_ps": 500,
+  "paratope_residues": {
+    "X": [
+      31,
+      33,
+      37,
+      44,
+      47,
+      50,
+      54,
+      56,
+      58,
+      96,
+      98,
+      100,
+      101,
+      102,
+      104
+    ],
+    "Y": [
+      168,
+      169,
+      170,
+      171,
+      173,
+      188,
+      190,
+      192,
+      193,
+      195,
+      197,
+      237,
+      238,
+      239,
+      296,
+      297,
+      299,
+      311,
+      314,
+      320,
+      356,
+      359,
+      361
+    ]
+  },
+  "metrics": {
+    "site_Y_sasa_surface_Construct_nm2": {
+      "n_frames": 41,
+      "mean": 17.33668292682927,
+      "min": 15.71,
+      "max": 19.114,
+      "first_half_mean": 16.85965,
+      "second_half_mean": 17.791
+    },
+    "site_Y_sasa_surface_Protein_nm2": {
+      "n_frames": 41,
+      "mean": 17.33668292682927,
+      "min": 15.71,
+      "max": 19.114,
+      "first_half_mean": 16.85965,
+      "second_half_mean": 17.791
+    },
+    "site_Y_vs_Arm1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 2.235458414634147,
+        "min": 1.161171,
+        "max": 4.568775,
+        "first_half_mean": 3.0611852500000003,
+        "second_half_mean": 1.4490519047619046
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_Y_vs_Linker1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 1.005072726829268,
+        "min": 0.5705919,
+        "max": 1.441114,
+        "first_half_mean": 1.054272065,
+        "second_half_mean": 0.9582162142857142
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_Y_vs_Target_X": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 2.703259473170732,
+        "min": 0.9536594,
+        "max": 5.559175,
+        "first_half_mean": 3.7299768999999996,
+        "second_half_mean": 1.7254333523809524
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    }
+  }
+}

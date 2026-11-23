@@ -1,0 +1,16 @@
+pdb_id,file,role,archive_relative_source,bytes,sha256
+8UKV,8UKV.pdb,34E5–EGFRvIII experimental complex; assembly source,track-b-glioblastoma-targeted/structures/8UKV.pdb,618921,1b5fcc2f899ec5db4dba4aeba21a7f67cbeb84522e5226fea0d6cac5e4fdb232
+6BIT,6BIT.pdb,KWAR23–SIRPα experimental complex; assembly source,track-a-general-cd47-sirpa/structures/6BIT.pdb,1441395,a2a7f5b1b1553634d206ea5df34f110d0cfe48538613aa8de717b35686b09baf
+2JJS,2JJS.pdb,Native CD47–SIRPα structural comparison,track-a-general-cd47-sirpa/structures/2JJS.pdb,711018,607521948f5440cad3fc1abf4dbd01580a66df1d559baf2969e7164ac2a91653
+5TZU,5TZU.pdb,CD47 binder candidate score input,track-a-general-cd47-sirpa/structures/5TZU.pdb,780192,3afbbc98603a658d829b85eef26275ddbc39b8e2b27f7030b51ec3a2ddae9cc3
+5TZT,5TZT.pdb,CD47 binder candidate score input,track-a-general-cd47-sirpa/structures/5TZT.pdb,1436454,ff88102419d85eb0703d4bffed1e3e172902bbe191a924b428c97de48ef0fb80
+5TZ2,5TZ2.pdb,CD47 binder candidate score input,track-a-general-cd47-sirpa/structures/5TZ2.pdb,734103,b1d813c57022591c1b8e77c3359ca77d7067a116e3e3b71df3d4fa791d835a30
+6NMR,6NMR.pdb,SIRPα binder candidate score input,track-a-general-cd47-sirpa/structures/6NMR.pdb,1469178,f98368a29b151ce6de8e15bb733a63f8722b738cf6025dbf0e13a8328ba82698
+6NMS,6NMS.pdb,SIRPα binder candidate score input,track-a-general-cd47-sirpa/structures/6NMS.pdb,766827,fcefd9063c0dbe810b997b2f772e4daadf42ff0d811c5adcd232a0af2cd48cd7
+6NMU,6NMU.pdb,SIRPα binder candidate score input,track-a-general-cd47-sirpa/structures/6NMU.pdb,752895,8e8ea37305785eb514a94702681ca8eb816b7d40f3a53f0848b21259fb244072
+6NMT,6NMT.pdb,Nonblocking SIRPα control score input,track-a-general-cd47-sirpa/structures/6NMT.pdb,434484,7f6e4eb3c9e30a7de9df968c11071810660ed2e03742799d5f3c612b1bab3d93
+5IWL,5IWL.pdb,5F9–CD47 candidate score input,track-a-general-cd47-sirpa/structures/5IWL.pdb,939519,ef8dde488cf41bfbeed9866f7588a4128e5d085d8a32237ac854528eccde880d
+3G5V,3G5V.pdb,mAb806–EGFR peptide redocking control,track-b-glioblastoma-targeted/structures/3G5V.pdb,341415,3f726de377e0faf943e484cdf65461e149943bc7410625410c1a494455de2460
+1YY9,1YY9.pdb,Cetuximab–EGFR redocking control,track-b-glioblastoma-targeted/structures/1YY9.pdb,752571,e574b33a287c4100ff35f8346a6eadba1486d4a90464f4344f3189115f6d5fa8
+1N8Z,1N8Z.pdb,Trastuzumab–HER2 redocking control,track-b-glioblastoma-targeted/structures/1N8Z.pdb,703809,ed934d36503335c6764b08880f9e50933d99eb13b9bf145339cfcaee150eb21e
+1I8K,1I8K.pdb,MR1–EGFRvIII-junction experimental complex,track-b-glioblastoma-targeted/structures/1I8K.pdb,206631,45eead39d317e8faff1bf1e0fe5a7e2e3c89d53f8ec3628af46e3b64966d79a5

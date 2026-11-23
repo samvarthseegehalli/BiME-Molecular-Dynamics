@@ -1,0 +1,25 @@
+{
+  "stage": "em",
+  "replica": 1,
+  "topology_sha256": "0611ded8cf48d957fe210e27447df82ee2248988abf4676f35b2626b44d506fd",
+  "restraints_sha256": "fd031dc3bb421b39326eedacb1c54dff49c14c727613ed04665c9cc8babad13e",
+  "mdp_sha256": null,
+  "tpr_sha256": "bc41ee4aa4afb21d38b38694f6fb788aacb88ada27ee51ba76d92dc4718738e0",
+  "last_launch_utc": "2026-09-23T02:59:12.095259+00:00",
+  "command": [
+    "<COMPUTE_PATH>",
+    "mdrun",
+    "-deffnm",
+    "em",
+    "-s",
+    "<COMPUTE_PATH>",
+    "-maxh",
+    "23.5",
+    "-ntmpi",
+    "1",
+    "-ntomp",
+    "8",
+    "-nb",
+    "gpu"
+  ]
+}

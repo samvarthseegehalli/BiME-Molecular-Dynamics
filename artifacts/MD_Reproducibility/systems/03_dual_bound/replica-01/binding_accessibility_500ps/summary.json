@@ -1,0 +1,155 @@
+{
+  "state": "03_dual_bound",
+  "replica": "replica-01",
+  "interval_ps": 500,
+  "paratope_residues": {
+    "X": [
+      31,
+      33,
+      37,
+      44,
+      47,
+      50,
+      54,
+      56,
+      58,
+      96,
+      98,
+      100,
+      101,
+      102,
+      104
+    ],
+    "Y": [
+      168,
+      169,
+      170,
+      171,
+      173,
+      188,
+      190,
+      192,
+      193,
+      195,
+      197,
+      237,
+      238,
+      239,
+      296,
+      297,
+      299,
+      311,
+      314,
+      320,
+      356,
+      359,
+      361
+    ]
+  },
+  "metrics": {
+    "site_X_sasa_surface_Construct_nm2": {
+      "n_frames": 41,
+      "mean": 13.886243902439022,
+      "min": 13.041,
+      "max": 14.761,
+      "first_half_mean": 13.852149999999998,
+      "second_half_mean": 13.918714285714286
+    },
+    "site_X_sasa_surface_Protein_nm2": {
+      "n_frames": 41,
+      "mean": 5.405780487804878,
+      "min": 4.363,
+      "max": 7.02,
+      "first_half_mean": 5.35865,
+      "second_half_mean": 5.450666666666666
+    },
+    "site_X_vs_Arm2": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 4.296738292682926,
+        "min": 2.800607,
+        "max": 6.705208,
+        "first_half_mean": 4.9243007,
+        "second_half_mean": 3.6990598095238107
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_X_vs_Linker1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 2.172860146341464,
+        "min": 1.823921,
+        "max": 2.602707,
+        "first_half_mean": 2.3189319999999998,
+        "second_half_mean": 2.033744095238095
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_Y_sasa_surface_Construct_nm2": {
+      "n_frames": 41,
+      "mean": 16.10790243902439,
+      "min": 15.23,
+      "max": 17.315,
+      "first_half_mean": 16.047050000000002,
+      "second_half_mean": 16.165857142857146
+    },
+    "site_Y_sasa_surface_Protein_nm2": {
+      "n_frames": 41,
+      "mean": 7.058853658536585,
+      "min": 5.74,
+      "max": 8.439,
+      "first_half_mean": 7.3157,
+      "second_half_mean": 6.814238095238096
+    },
+    "site_Y_vs_Arm1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 2.877759317073171,
+        "min": 1.502159,
+        "max": 5.324015,
+        "first_half_mean": 3.7235493000000006,
+        "second_half_mean": 2.072245047619048
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 0.0
+      }
+    },
+    "site_Y_vs_Linker1": {
+      "distance_nm": {
+        "n_frames": 41,
+        "mean": 0.8052594121951221,
+        "min": 0.2433118,
+        "max": 1.251267,
+        "first_half_mean": 1.0186653849999998,
+        "second_half_mean": 0.6020156285714284
+      },
+      "atom_contacts": {
+        "n_frames": 41,
+        "mean": 1.170731707317073,
+        "min": 0.0,
+        "max": 19.0,
+        "first_half_mean": 0.0,
+        "second_half_mean": 2.2857142857142856
+      }
+    }
+  }
+}

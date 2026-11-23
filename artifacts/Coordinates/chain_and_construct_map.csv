@@ -1,0 +1,8 @@
+construct_chain,start_residue,end_residue,component,target
+A,1,118,34E5 VHH,EGFRvIII-associated EGFR domain-IV epitope
+A,119,138,"Inter-arm linker, (GGGGS)4",joins VHH to KWAR23 VH
+A,139,251,KWAR23 VH,SIRPα-binding scFv
+A,252,266,"Intra-scFv linker, (GGGGS)3",joins KWAR23 VH to VL
+A,267,372,KWAR23 VL,SIRPα-binding scFv
+X,1,321,Modeled EGFRvIII-associated target fragment,maps to PDB 8UKV chain A residues 292–612
+Y,1,115,Modeled SIRPα IgV target fragment,maps to PDB 6BIT chain H residues 3–117

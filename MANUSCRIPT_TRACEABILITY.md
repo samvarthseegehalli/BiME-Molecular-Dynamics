@@ -1,0 +1,15 @@
+# Manuscript claim-to-artifact map
+
+| Manuscript content | Packaged result | Primary source data | Recovered implementation / parameters |
+|---|---|---|---|
+| Four modeled soluble states and construct mappings | Coordinate manifest and construct maps | `artifacts/Coordinates/` and `artifacts/Reference_Structures/` | `scripts/assemble_construct_states.py`; `scripts/build_construct_sequences.py`; source mapping tables |
+| HDOCK candidate/control selection | Docking manifests, retained complexes, QC records, score tables | `artifacts/Docking_Reproducibility/`; `artifacts/Analysis_Tables/candidate_screen_scores.csv` | `scripts/validate_redocking.py`; `scripts/rank_antibody_docking.py`; HDOCK job records in docking documentation |
+| PRODIGY estimates | `artifacts/Analysis_Tables/` and raw pair logs | Pair-only PDBs and PRODIGY logs | PRODIGY 2.4.0, 25 °C; exact inputs in `artifacts/Analysis_Tables/PRODIGY_pair_inputs_and_logs/`; command line not preserved for every run |
+| MD completion, seeds, and thermodynamics | `completion_and_seeds.csv`, `thermodynamic_replica_summary.csv` | Per-state MDP/TPR, logs, EDR and completion checks under `artifacts/MD_Reproducibility/` | GROMACS 2025.1; stage settings in corresponding `.mdp`; original stage launcher recovered as `scripts/run_md_stage.py` |
+| RMSD, RMSF, Rg, construct SASA, interface contacts and hydrogen bonds | `replica_metrics.csv`, `aggregate_metrics.csv`, per-replica `.xvg` files | `.xvg` files under each state/replica `analysis_from_0ns/` | `scripts/analyze_construct_replica.py`; explicit groups in packaged `analysis_groups.json` |
+| Binding-face accessibility | `binding_face_accessibility.json` and `binding_accessibility_500ps/` outputs | Per-replica accessibility summaries and `.xvg` files | `scripts/check_bfc001_binding_accessibility.py`; 500 ps sampling settings in files and manuscript methods |
+| Interface burial | `buried_area_replica_summary.json` | Per-replica burial summaries and supporting files, if included | Summary/figure sources recovered in `scripts/make_audited_figures.py`; methods definition in clean manuscript. Original SASA calculation utility was not fully recovered in the compact archive. |
+| Reproducible contact figure | `results/figures/interface_contacts.svg` (generated locally) | Packaged per-replica interface XVG time series | `scripts/make_audited_figures.py` or `scripts/make_artifact_figures.py`; run from any directory, optionally use `--data-dir` and `--output`. |
+| Remaining manuscript figures | Embedded in authoritative clean manuscript PDF | Some inputs are packaged, but rendered starting-structure assets and the complete original figure-generation input tree are not | Historical full-figure sources are retained for provenance; the complete multi-figure suite cannot be reproduced from this compact package alone. |
+
+Statistics use each replica's time average as one observation; between-replica spread is sample SD (n=3). Frames are not treated as independent replicates. Full source trajectories are needed for fresh trajectory calculations; the compact package preserves saved observables and inputs.

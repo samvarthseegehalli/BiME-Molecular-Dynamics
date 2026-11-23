@@ -1,0 +1,18 @@
+binder,target,source_structure,retained_rank,PRODIGY_deltaG_kcal_per_mol,PRODIGY_Kd_nM,PRODIGY_interchain_residue_contacts
+B6H12.2,CD47,5TZU,1,-13.5,0.13,102
+C47B161,CD47,5TZT,88,-12.4,0.81,65
+C47B222,CD47,5TZ2,1,-11.2,6.3,68
+KWAR23,SIRPα,6BIT,1,-13.6,0.1,91
+119,SIRPα,6NMR,1,-11.8,2.2,111
+136,SIRPα,6NMS,1,-11.1,7.3,69
+115,SIRPα,6NMU,1,-10.7,15,79
+3,SIRPα,6NMT,6,-10.2,34,72
+5F9,"CD47, restrained",5IWL,4,-9.6,86,40
+mAb806,EGFR peptide,3G5V,1,-13.2,0.23,67
+Cetuximab,EGFR,1YY9,1,-10.7,15,87
+Trastuzumab,HER2,1N8Z,2,-10.4,25,73
+MR1 dsFv,EGFRvIII junction peptide,1I8K,template,-9.7,79,55
+34E5,EGFRvIII,8UKV,template,-10.7,15,69
+2173,EGFRvIII junction peptide,Modeled,3,-10.1,42,48
+HuCL47,"IL-13Rα2, global",Modeled,34,-10.1,38,67
+HuCL47,"IL-13Rα2, guided",Modeled,44,-10.4,22,75
